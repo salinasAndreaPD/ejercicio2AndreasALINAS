@@ -1,0 +1,62 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	
+}
+
+
+section{
+	padding: 60px 0;
+}
+.titulo{
+	font-size: 50px;
+	color: #000000;
+	font-weight: 600;
+	text-align: center;
+}
+
+
+#hero,
+#models{
+	background-color: #fafafa;
+}
+
+#models{
+	background-color: #fafafa;
+	text-align: center;
+}
+
+#models h2{
+	margin-bottom: 20px;
+}
+#models p{
+	margin-bottom: 60px;
+}
+
+.centrado{
+	text-align: center;
+}
+
+footer{
+	background-color: #000;
+	color: #adadad;
+	padding: 80px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
